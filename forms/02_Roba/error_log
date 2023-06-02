@@ -1,0 +1,112 @@
+[25-Dec-2018 11:39:40 UTC] PHP Parse error:  syntax error, unexpected 'naziv' (T_STRING), expecting ',' or ';' in /home/thlakta2/public_html/racun/forms/firma_delete.php on line 18
+[27-Dec-2018 20:35:46 UTC] PHP Notice:  Undefined index: naziv in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 109
+[27-Dec-2018 20:35:54 UTC] PHP Notice:  Undefined index: naziv in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 109
+[27-Dec-2018 20:39:50 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 137
+[27-Dec-2018 20:46:35 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 137
+[28-Dec-2018 05:31:48 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[28-Dec-2018 05:52:31 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[29-Dec-2018 13:34:57 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[29-Dec-2018 13:34:57 UTC] PHP Notice:  Undefined index: obveznikpdv in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 152
+[10-Jan-2019 21:24:18 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[20-Feb-2019 20:32:59 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[27-Feb-2019 21:49:48 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[06-Apr-2019 13:06:41 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[04-May-2019 09:49:17 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 143
+[04-May-2019 16:41:24 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'phpmyadmin'@'localhost' (using password: YES) in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 3
+[04-May-2019 16:41:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 13
+[04-May-2019 16:42:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'phpmyadmin'@'localhost' (using password: YES) in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 3
+[04-May-2019 16:42:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 13
+[04-May-2019 16:42:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'phpmyadmin'@'localhost' (using password: YES) in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 3
+[04-May-2019 16:42:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 13
+[04-May-2019 16:43:58 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'phpmyadmin'@'localhost' (using password: YES) in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 3
+[04-May-2019 16:43:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/thlakta2/public_html/racun/forms/izmeni_firma.php on line 13
+[05-May-2019 18:54:58 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/search_firma.php on line 32
+[05-May-2019 19:19:51 UTC] PHP Warning:  file_get_contents(header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/search_firma.php on line 31
+[05-May-2019 19:20:54 UTC] PHP Warning:  file_get_contents(header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/search_firma.php on line 31
+[05-May-2019 19:20:58 UTC] PHP Warning:  file_get_contents(header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/search_firma.php on line 31
+[05-May-2019 19:21:12 UTC] PHP Warning:  file_get_contents(header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/search_firma.php on line 31
+[05-May-2019 19:21:14 UTC] PHP Warning:  file_get_contents(header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/search_firma.php on line 31
+[05-May-2019 19:21:46 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 20
+[05-May-2019 19:21:52 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_izmeni.php on line 18
+[05-May-2019 19:21:57 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/delete_firma.php on line 29
+[05-May-2019 19:22:44 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 20
+[05-May-2019 19:22:48 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_izmeni.php on line 22
+[05-May-2019 19:22:53 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/delete_firma.php on line 32
+[05-May-2019 19:23:46 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 20
+[05-May-2019 19:23:50 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_izmeni.php on line 22
+[05-May-2019 19:23:53 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/delete_firma.php on line 32
+[05-May-2019 19:29:47 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 23
+[05-May-2019 19:29:50 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_izmeni.php on line 21
+[05-May-2019 19:29:53 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/delete_firma.php on line 33
+[05-May-2019 19:29:59 UTC] PHP Warning:  file_get_contents(forms/header_forms.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_izmeni.php on line 21
+[05-May-2019 19:30:04 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 23
+[05-May-2019 19:33:18 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 23
+[05-May-2019 19:42:13 UTC] PHP Notice:  Undefined index: mjestoizd in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 146
+[05-May-2019 20:10:10 UTC] PHP Warning:  file_get_contents(forms/header.html): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/firma_dodaj.php on line 27
+[10-May-2019 10:34:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/thlakta2/public_html/racun/forms/02_Roba/roba_dodaj.php on line 154
+[10-May-2019 10:34:41 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/thlakta2/public_html/racun/forms/02_Roba/roba_dodaj.php on line 154
+[10-May-2019 10:34:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/thlakta2/public_html/racun/forms/02_Roba/roba_dodaj.php on line 154
+[12-May-2019 17:07:24 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ')' in /home/thlakta2/public_html/racun/forms/02_Roba/search_roba.php on line 33
+[12-May-2019 17:09:52 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ')' in /home/thlakta2/public_html/racun/forms/02_Roba/search_roba.php on line 33
+[12-May-2019 17:10:31 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ')' in /home/thlakta2/public_html/racun/forms/02_Roba/search_roba.php on line 33
+[12-May-2019 17:10:54 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ')' in /home/thlakta2/public_html/racun/forms/02_Roba/search_roba.php on line 33
+[12-May-2019 17:53:28 UTC] PHP Parse error:  syntax error, unexpected 'table' (T_STRING), expecting ',' or ')' in /home/thlakta2/public_html/racun/forms/02_Roba/search_roba.php on line 33
+[13-May-2019 15:04:45 UTC] PHP Warning:  include(../header_forms.php): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 21
+[13-May-2019 15:04:45 UTC] PHP Warning:  include(): Failed opening '../header_forms.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 21
+[13-May-2019 15:12:50 UTC] PHP Warning:  include(../header_forms.php): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 21
+[13-May-2019 15:12:50 UTC] PHP Warning:  include(): Failed opening '../header_forms.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 21
+[13-May-2019 15:12:54 UTC] PHP Warning:  include(../header_forms.php): failed to open stream: No such file or directory in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 21
+[13-May-2019 15:12:54 UTC] PHP Warning:  include(): Failed opening '../header_forms.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 21
+[13-May-2019 15:35:20 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 7
+[13-May-2019 15:35:20 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 11
+[13-May-2019 15:35:20 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 67
+[13-May-2019 15:35:20 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 94
+[13-May-2019 15:35:31 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 7
+[13-May-2019 15:35:31 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 11
+[13-May-2019 15:35:31 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 67
+[13-May-2019 15:35:31 UTC] PHP Notice:  Undefined variable: thisPage in /home/thlakta2/public_html/racun/header_forms.php on line 94
+[22-May-2019 19:28:33 UTC] PHP Notice:  Undefined variable: NAZIV in /home/thlakta2/public_html/racun/forms/02_Roba/roba_dodaj.php on line 107
+[22-May-2019 19:29:49 UTC] PHP Notice:  Undefined variable: NAZIV in /home/thlakta2/public_html/racun/forms/02_Roba/roba_dodaj.php on line 107
+[22-May-2019 19:31:19 UTC] PHP Notice:  Undefined variable: NAZIV in /home/thlakta2/public_html/racun/forms/02_Roba/roba_dodaj.php on line 107
+[28-May-2019 08:39:41 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:41 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:41 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:41 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:41 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:41 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:53 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:53 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:53 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:53 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:53 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:39:53 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:13 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:13 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:13 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:13 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:13 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:13 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:23 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:23 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:23 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:23 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:23 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[28-May-2019 08:40:23 UTC] PHP Notice:  Undefined index: sifra in /home/thlakta2/public_html/racun/forms/02_Roba/roba_izmeni.php on line 49
+[05-Jun-2019 14:39:20 UTC] PHP Notice:  Undefined variable: LoginMessage in /home/thlakta2/public_html/racun/header_forms.php on line 56
+[07-Jun-2019 13:36:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 37
+[07-Jun-2019 13:36:35 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 37
+[07-Jun-2019 13:36:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 37
+[07-Jun-2019 13:37:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 37
+[07-Jun-2019 13:47:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:09 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:10 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:13 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:47:30 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 44
+[07-Jun-2019 13:52:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 42
+[07-Jun-2019 13:52:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 42
+[07-Jun-2019 13:52:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 42
+[07-Jun-2019 13:52:08 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/thlakta2/public_html/racun/forms/02_Roba/izmeni_firma.php on line 42
